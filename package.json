@@ -1,9 +1,9 @@
 {
-  "name": "react-reading-progress",
-  "version": "0.3.0",
+  "name": "react-reading-progress-blue",
+  "version": "0.4.0",
   "main": "./lib/index.js",
-  "author": "makotot",
-  "description": "react reading progress bar component",
+  "author": "twhite96",
+  "description": "react reading progress bar component blue",
   "files": [
     "README.md",
     "lib/index.js",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/makotot/react-reading-progress.git"
+    "url": "https://github.com/twhite96/react-reading-progress.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -66,7 +66,7 @@
     "style-loader": "^0.18.2",
     "system-font-css": "^2.0.1",
     "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.8.2"
+    "webpack-dev-server": "^3.1.14"
   },
   "peerDependencies": {
     "react": ">=0.15.0",

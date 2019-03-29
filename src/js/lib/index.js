@@ -21,7 +21,7 @@ const StyledProgress = styled(Progress)`
   height: 0.4rem;
   border: 0;
   background-color: transparent;
-  color: rgb(97, 13, 255);
+  color: RGB(6, 215, 217);
   z-index: 1;
 
   &::-webkit-progress-bar {
@@ -29,11 +29,11 @@ const StyledProgress = styled(Progress)`
   }
 
   &::-webkit-progress-value {
-    background: rgb(97, 13, 255);
+    background: RGB(6, 215, 217);
   }
 
   &::-moz-progress-bar {
-    background-color: rgb(97, 13, 255);
+    background-color: RGB(6, 215, 217);
   }
 
   ${ props => props.style }
